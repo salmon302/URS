@@ -4,3 +4,4 @@ scrapes/*
 target/*
 
 Cargo.lock
+.env
